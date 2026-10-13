@@ -4,7 +4,7 @@ Code, scenario tables and results for a study of how much reported accuracy in M
 
 **Author:** Mir Ishfak Faisal Rafi (Power Grid Bangladesh PLC; Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh)
 
-**Status:** work in progress; a preprint is in preparation. Results below are from the current dataset and may change before the preprint.
+**Status:** preprint on Zenodo ([doi:10.5281/zenodo.23337823](https://doi.org/10.5281/zenodo.23337823)); trajectories on Zenodo ([doi:10.5281/zenodo.23336324](https://doi.org/10.5281/zenodo.23336324)).
 
 ![Study pipeline](figures/fig0_pipeline.png)
 
@@ -93,7 +93,7 @@ One system, one simulator, finite fault impedance (not a bolted fault), a 3 s fi
 
 ## Citation
 
-If you use this code or data, please cite the preprint (link to be added) and the ANDES paper: H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power System Modeling and Analysis," IEEE Trans. Power Systems, vol. 36, no. 2, pp. 1373-1384, 2021.
+If you use this code or data, please cite the preprint ([doi:10.5281/zenodo.23337823](https://doi.org/10.5281/zenodo.23337823)) and the ANDES paper: H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power System Modeling and Analysis," IEEE Trans. Power Systems, vol. 36, no. 2, pp. 1373-1384, 2021.
 
 ## License
 
