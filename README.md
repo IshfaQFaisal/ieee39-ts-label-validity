@@ -28,7 +28,7 @@ A run is labelled unstable if the rotor-angle spread exceeds 180 degrees or the 
 
 The boundary model is a logistic regression fitted on the night-1 data. Its coefficients are released in `src/boundary.json` (used for sampling night 2 and for the near-boundary subset). `src/fit_boundary.py` refits it and approximately reproduces the released coefficients (probability correlation 0.9999); the exact original fitting script was not kept.
 
-The rotor angle and speed trajectories (about 40 MB per night) are not in this repository; they are archived on Zenodo (link to be added). Unzip them into `data/night1/traj/` and `data/night2/traj/`.
+The rotor angle and speed trajectories (about 40 MB per night) are not in this repository; they are archived on Zenodo ([doi:10.5281/zenodo.23336324](https://doi.org/10.5281/zenodo.23336324)). Unzip them into `data/night1/traj/` and `data/night2/traj/`.
 
 ## Main findings (current data)
 
