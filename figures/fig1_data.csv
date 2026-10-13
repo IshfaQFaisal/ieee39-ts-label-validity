@@ -1,0 +1,17 @@
+model,setting,bacc,lo,hi
+"Scenario parameters only (no dynamics), gradient boosting",Uniform data random split,0.9752660419587608,0.9679481106627004,0.9822658834486792
+"Scenario parameters only (no dynamics), gradient boosting",Uniform data held-out buses,0.7867543413773199,0.7514682207048168,0.8209852150765049
+"Scenario parameters only (no dynamics), gradient boosting",Near-boundary random split,0.8386013339809736,0.8159463490642593,0.8605046490054796
+"Scenario parameters only (no dynamics), gradient boosting",Near-boundary held-out buses,0.5098093805162957,0.4393197504059776,0.5781366352906231
+"Trajectory features, gradient boosting",Uniform data random split,0.9835808995704702,0.9730124588703648,0.9923386564031932
+"Trajectory features, gradient boosting",Uniform data held-out buses,0.9626287512031144,0.9447874983373816,0.9781172352694308
+"Trajectory features, gradient boosting",Near-boundary random split,0.9413661202185792,0.927390179988356,0.955319615259546
+"Trajectory features, gradient boosting",Near-boundary held-out buses,0.8411475409836066,0.7978057365952552,0.8803889371629238
+"Raw trajectories, 1D-CNN",Uniform data random split,0.9777463331944664,0.9655500027821978,0.9880593023910672
+"Raw trajectories, 1D-CNN",Uniform data held-out buses,0.9061779029176424,0.8538133092643987,0.9447753464590338
+"Raw trajectories, 1D-CNN",Near-boundary random split,0.9260109289617486,0.9104798981989476,0.940339884163056
+"Raw trajectories, 1D-CNN",Near-boundary held-out buses,0.7966120218579235,0.7418431258309054,0.8512368811375051
+"Raw trajectories, GRU",Uniform data random split,0.9706899771587824,0.958746692182077,0.9819424798498342
+"Raw trajectories, GRU",Uniform data held-out buses,0.9132342589533264,0.8593092798850925,0.95451015787989
+"Raw trajectories, GRU",Near-boundary random split,0.900127504553734,0.8802394871804718,0.9172178880866484
+"Raw trajectories, GRU",Near-boundary held-out buses,0.753351548269581,0.6973087454135211,0.8017674883671221
