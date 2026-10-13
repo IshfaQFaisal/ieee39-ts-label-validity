@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/night1/traj/
+data/night2/traj/
+data_v*/
+*.bak
+*.zip
+.venv/
+nn_cache/
+src/boundary_refit.json
